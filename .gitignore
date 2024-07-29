@@ -1,0 +1,8 @@
+
+# project specific files
+*.csv
+generate.py
+
+# Automatically generated R files
+*.RData
+*.RHistory
