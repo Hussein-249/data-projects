@@ -1,8 +1,14 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+.RDataTmp
+
+# User-specific files
+.Ruserdata
 
 # project specific files
 *.csv
 generate.py
-
-# Automatically generated R files
-*.RData
-*.RHistory
