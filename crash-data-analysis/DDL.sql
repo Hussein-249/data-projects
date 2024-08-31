@@ -75,4 +75,5 @@ CREATE TABLE IncidentData (
     VehicleBBrakeDist_m INTEGER
 );
 
-SELECT * FROM IncidentData;
+-- Uncomment to ensure that the statements above work as intended
+-- SELECT * FROM IncidentData;
